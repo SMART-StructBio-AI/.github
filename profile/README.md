@@ -8,5 +8,5 @@ We are an interdisciplinary research lab that integrates **biochemistry, structu
 - **Mechanism & Drug Discovery:** Elucidating the structural and functional mechanisms of key drug targets, with a specialty in **ion channels and membrane receptors**.
 - **AI for Structural Biology:** Developing and deploying state-of-the-art AI algorithms to accelerate and enhance **structural biology research**, and make **Cryo-EM technology** more accessible, high-throughput, and intelligent.
 
-**🛠️ Our tools On GitHub:**
+**🛠️ Our tools:**
 -  **Cryo-IEF (Nature Methods, 2025)**: https://github.com/westlake-repl/Cryo-IEF
