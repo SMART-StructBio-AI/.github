@@ -10,3 +10,4 @@ We are an interdisciplinary research lab that integrates **biochemistry, structu
 
 **🛠️ Our tools:**
 -  **Cryo-IEF (Nature Methods, 2025)**: https://github.com/westlake-repl/Cryo-IEF
+-  **CryoWizard**: https://github.com/SMART-StructBio-AI/CryoWizard
